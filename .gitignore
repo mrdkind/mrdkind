@@ -3,4 +3,5 @@ _site
 pages/.DS_Store
 pages/tags.md
 _notes/.obsidian
+_notes/Private
 _notes/Public/.obsidian
