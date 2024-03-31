@@ -5,4 +5,4 @@ title: List of Lists
 feedformat: row
 ---
 
-List of all list!
+لیستی از تمامی لیست‌‌ها :)
